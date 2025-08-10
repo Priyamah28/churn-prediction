@@ -35,7 +35,7 @@ The goal is to provide insights that can help reduce churn and improve customer 
 | XGBoost       | 78.9%    | 0.57     |
 
 ## Correlation Heatmap
-![}(screenshot/c3.png)
+![](screenshot/c3.png)
 
 ## Future Improvements
 Use deep learning models for prediction
